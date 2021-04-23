@@ -41,6 +41,7 @@ body {
   position: absolute;
   bottom: 0px;
   right: 0px;
+  overflow: hidden;
 }
 
 .bottomStyle {
@@ -54,6 +55,7 @@ body {
 .bottomStyle img {
   width: auto;
   height: auto;
+  overflow: hidden;
 }
 
 .bg-img {
